@@ -7,4 +7,3 @@
 
 ## Учебные работы Yandex DataLens:
 [Пример 1](https://datalens.ru/x22p7tf7d53uj-dashbord-1)
-[Пример 2](https://datalens.ru/workbooks/bgjs4hbfrgd6x)
