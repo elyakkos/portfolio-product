@@ -1,5 +1,6 @@
 # Костылева Элеонора Павловна
-## Младший продуктовый аналитик
+## Аналитик
+
 
 ## Итоговый проект по программе проф.переподготовки:
 ### [Google Colab c кодами Sql, Python](https://colab.research.google.com/drive/1J-NwBrL68cO2gYCqBwGdU8Fh016q-nWc?usp=sharing)
